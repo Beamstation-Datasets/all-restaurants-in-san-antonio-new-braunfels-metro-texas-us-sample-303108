@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4b6f61ac-a2ee-4275-8f5b-d31f0f62a894",
+  "export_job_id": "298d2f70-5408-4ca1-9406-3124921595f1",
   "id_short": 303108,
-  "published_at": "2026-04-22T07:19:46Z",
+  "published_at": "2026-04-29T07:11:30Z",
   "repo_name": "all-restaurants-in-san-antonio-new-braunfels-metro-texas-us-sample-303108",
   "sample_asset_name": "beamstation_303108_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/303108/beamstation_303108_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
-  "sample_records": 480,
-  "sample_sha256": "32321eb8178c4427cabaeb6bb95a95739c4857b9345af1892f2b0e02cdb10bf4",
-  "sample_size_bytes": 1696767,
-  "total_records": 4806
+  "sample_records": 635,
+  "sample_sha256": "27392da2af5a1c11af7a17b599e6e7dc95c07cc563dfb67b03d442ceb40ad71b",
+  "sample_size_bytes": 2102601,
+  "total_records": 6351
 }
